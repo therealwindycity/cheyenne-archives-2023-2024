@@ -48,9 +48,8 @@ jobs:
           python3 scripts/publish_to_github.py \
             --owner "${{ github.repository_owner }}" \
             --routing single-repo \
-            --target-repo "cheyenne-archives-2023-2024" \
+            --repo "cheyenne-archives-2023-2024" \
             --min-year 2023 \
             --max-year 2024 \
             --batch-size "${{ inputs.batch_size || '3' }}" \
-            --state-repo "therealwindycity/cheyenne-archives-2023-2024" \
             --work-dir "/tmp/cheyenne_work"
