@@ -1,0 +1,17 @@
+{
+  "processed": {
+    "cochwy-City_Council_12-23-24": {
+      "identifier": "cochwy-City_Council_12-23-24",
+      "date": "2024-12-24",
+      "title": "City Council 12-23-24",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-12-24-il_12-23-24",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-12-24-il_12-23-24",
+      "index_path": "speaker-videos/2024-12-24_City_Council_12-23-24/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-12-24_City_Council_12-23-24/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
+    }
+  }
+}
