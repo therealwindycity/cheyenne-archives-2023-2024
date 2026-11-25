@@ -116,6 +116,19 @@
       "speakers": 10,
       "clips": 198,
       "status": "published"
+    },
+    "cochwy-Committee_of_the_Whole_11-20-24": {
+      "identifier": "cochwy-Committee_of_the_Whole_11-20-24",
+      "date": "2024-11-21",
+      "title": "Committee of the Whole 11-20-24",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-11-21-le_11-20-24",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-11-21-le_11-20-24",
+      "index_path": "speaker-videos/2024-11-21_Committee_of_the_Whole_11-20-24/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-11-21_Committee_of_the_Whole_11-20-24/episode.json",
+      "speakers": 10,
+      "clips": 103,
+      "status": "published"
     }
   }
 }
