@@ -103,6 +103,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-City_Council_Meeting_11-25-24": {
+      "identifier": "cochwy-City_Council_Meeting_11-25-24",
+      "date": "2024-11-26",
+      "title": "City Council Meeting 11-25-24",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-11-26-ng_11-25-24",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-11-26-ng_11-25-24",
+      "index_path": "speaker-videos/2024-11-26_City_Council_Meeting_11-25-24/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-11-26_City_Council_Meeting_11-25-24/episode.json",
+      "speakers": 10,
+      "clips": 198,
+      "status": "published"
     }
   }
 }
