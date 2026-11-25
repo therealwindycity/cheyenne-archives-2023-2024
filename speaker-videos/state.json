@@ -77,6 +77,19 @@
       "speakers": 10,
       "clips": 139,
       "status": "published"
+    },
+    "cochwy-Public_Services_Committee_12-03-24": {
+      "identifier": "cochwy-Public_Services_Committee_12-03-24",
+      "date": "2024-12-03",
+      "title": "Public Services Committee 12-03-24",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-12-03-ee_12-03-24",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-12-03-ee_12-03-24",
+      "index_path": "speaker-videos/2024-12-03_Public_Services_Committee_12-03-24/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-12-03_Public_Services_Committee_12-03-24/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
