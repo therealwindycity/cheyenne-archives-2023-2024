@@ -1,0 +1,75 @@
+{
+  "identifier": "cochwy-Committee_of_the_Whole_11-20-24",
+  "title": "Committee of the Whole 11-20-24",
+  "date": "2024-11-21",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-11-21-le_11-20-24",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-11-21-le_11-20-24",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Committee_of_the_Whole_11-20-24",
+  "archive_stream_url": "https://archive.org/download/cochwy-Committee_of_the_Whole_11-20-24/Committee_of_the_Whole_11-20-24.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_02",
+      "clips_count": 21,
+      "size_bytes": 36656734,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_01_Voice_Cluster_02_21_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_03",
+      "clips_count": 15,
+      "size_bytes": 94133554,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_02_Voice_Cluster_03_15_clips.zip"
+    },
+    {
+      "speaker": "Speaker_03_Voice_Cluster_05",
+      "clips_count": 18,
+      "size_bytes": 143521003,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_03_Voice_Cluster_05_18_clips.zip"
+    },
+    {
+      "speaker": "Speaker_04_Voice_Cluster_09",
+      "clips_count": 7,
+      "size_bytes": 82195569,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_04_Voice_Cluster_09_07_clips.zip"
+    },
+    {
+      "speaker": "Speaker_05_Voice_Cluster_01",
+      "clips_count": 9,
+      "size_bytes": 22557575,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_05_Voice_Cluster_01_09_clips.zip"
+    },
+    {
+      "speaker": "Speaker_06_Voice_Cluster_10",
+      "clips_count": 4,
+      "size_bytes": 24665446,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_06_Voice_Cluster_10_04_clips.zip"
+    },
+    {
+      "speaker": "Speaker_07_Voice_Cluster_07",
+      "clips_count": 5,
+      "size_bytes": 58667719,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_07_Voice_Cluster_07_05_clips.zip"
+    },
+    {
+      "speaker": "Speaker_08_Voice_Cluster_04",
+      "clips_count": 17,
+      "size_bytes": 127601859,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_08_Voice_Cluster_04_17_clips.zip"
+    },
+    {
+      "speaker": "Speaker_09_Voice_Cluster_08",
+      "clips_count": 1,
+      "size_bytes": 327165,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_09_Voice_Cluster_08_01_clips.zip"
+    },
+    {
+      "speaker": "Speaker_10_Voice_Cluster_06",
+      "clips_count": 6,
+      "size_bytes": 62633922,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-11-21-le_11-20-24/Speaker_10_Voice_Cluster_06_06_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 103
+}
