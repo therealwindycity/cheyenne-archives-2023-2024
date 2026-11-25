@@ -129,6 +129,19 @@
       "speakers": 10,
       "clips": 103,
       "status": "published"
+    },
+    "cochwy-Finance_Committee_11-18-24": {
+      "identifier": "cochwy-Finance_Committee_11-18-24",
+      "date": "2024-11-19",
+      "title": "Finance Committee 11-18-24",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-11-19-ee_11-18-24",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-11-19-ee_11-18-24",
+      "index_path": "speaker-videos/2024-11-19_Finance_Committee_11-18-24/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-11-19_Finance_Committee_11-18-24/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
