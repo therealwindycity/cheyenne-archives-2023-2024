@@ -168,6 +168,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Work_Session_-_Horse_Palace_Swan_Ranch_Master_Plan_-_11-08-24": {
+      "identifier": "cochwy-Work_Session_-_Horse_Palace_Swan_Ranch_Master_Plan_-_11-08-24",
+      "date": "2024-11-08",
+      "title": "Work Session - Horse Palace Swan Ranch Master Plan - 11-08-24",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-11-08-_-_11-08-24",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-11-08-_-_11-08-24",
+      "index_path": "speaker-videos/2024-11-08_Work_Session_-_Horse_Palace_Swan_Ranch_Master_Pla/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-11-08_Work_Session_-_Horse_Palace_Swan_Ranch_Master_Pla/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
