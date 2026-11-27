@@ -285,6 +285,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-CO2_Safety": {
+      "identifier": "cochwy-CO2_Safety",
+      "date": "2024-10-10",
+      "title": "CO2 Safety",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-10-10-CO2_Safety",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-CO2_Safety",
+      "index_path": "speaker-videos/2024-10-10_CO2_Safety/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-10-10_CO2_Safety/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
