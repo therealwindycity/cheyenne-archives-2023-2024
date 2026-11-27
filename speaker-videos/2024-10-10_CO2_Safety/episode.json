@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-CO2_Safety",
+  "title": "CO2 Safety",
+  "date": "2024-10-10",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-10-10-CO2_Safety",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-CO2_Safety",
+  "archive_embed_url": "https://archive.org/embed/cochwy-CO2_Safety",
+  "archive_stream_url": "https://archive.org/download/cochwy-CO2_Safety/CO2_Safety.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 4715429,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-10-10-CO2_Safety/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
