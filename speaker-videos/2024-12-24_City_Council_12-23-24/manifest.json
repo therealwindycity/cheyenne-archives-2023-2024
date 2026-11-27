@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 28.44,
     "end": 4094.0,
     "hms": "00h00m28s-01h08m14s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m28s-01h08m14s.mp4",
-    "text_preview": "would like to call the December 2 meeting of the governing body to order Madam clerk for the last time would you take the the role here here here Mr escabel I'm here Mr Johnson present Mr laybor gentl Dr renie Mr royel h"
+    "text_preview": "would like to call the December 2 meeting of the governing body to order Madam clerk for the last time would you take the the role here here here Mr escabel I'm here Mr Johnson present Mr laybor gentl Dr renie Mr royel h",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]

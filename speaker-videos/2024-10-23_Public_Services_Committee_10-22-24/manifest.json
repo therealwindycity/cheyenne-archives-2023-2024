@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Mark_Christensen",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 34.4,
     "end": 4077.44,
     "hms": "00h00m34s-01h07m57s",
     "file_name": "Speaker_01_Mark_Christensen_turn01_global001_00h00m34s-01h07m57s.mp4",
-    "text_preview": "thank us I am you were under alas so I'm sorry I didn't know who you were but now I get it State Farm agent I got it now yeah hey that's how I roll okay so let's see here okay ready okay welcome to the uh Public Services"
+    "text_preview": "thank us I am you were under alas so I'm sorry I didn't know who you were but now I get it State Farm agent I got it now yeah hey that's how I roll okay so let's see here okay ready okay welcome to the uh Public Services",
+    "speaker_original_automatic_label": "Speaker_01_Mark_Christensen"
   }
 ]

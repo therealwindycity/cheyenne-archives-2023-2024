@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Antonia_Gana",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 47.04,
     "end": 5119.24,
     "hms": "00h00m47s-01h25m19s",
     "file_name": "Speaker_01_Antonia_Gana_turn01_global001_00h00m47s-01h25m19s.mp4",
-    "text_preview": "November 18th meeting of the finance committee um if you're joining us online if you would be sure to use the raised hand feature if you would like to speak and uh Jennifer will recognize you and uh give you the ability "
+    "text_preview": "November 18th meeting of the finance committee um if you're joining us online if you would be sure to use the raised hand feature if you would like to speak and uh Jennifer will recognize you and uh give you the ability ",
+    "speaker_original_automatic_label": "Speaker_01_Antonia_Gana"
   }
 ]

@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 34.28,
     "end": 1073.84,
     "hms": "00h00m34s-00h17m54s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m34s-00h17m54s.mp4",
-    "text_preview": "get all right welcome everybody to the October 21st finance committee meeting um chairwoman Aldridge is today as well present so uh just a couple housekeeping items uh please put your phone on vibrate mode if you could p"
+    "text_preview": "get all right welcome everybody to the October 21st finance committee meeting um chairwoman Aldridge is today as well present so uh just a couple housekeeping items uh please put your phone on vibrate mode if you could p",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]

@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Seth_Floyd",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 56.16,
     "end": 4582.59,
     "hms": "00h00m56s-01h16m23s",
     "file_name": "Speaker_01_Seth_Floyd_turn01_global001_00h00m56s-01h16m23s.mp4",
-    "text_preview": "November 19th 2024 Public Services committee uh little housekeeping if you're going to speak please approach Podium turn the mic on and identify yourself cell phones things like that cell phones uh pads if you could eith"
+    "text_preview": "November 19th 2024 Public Services committee uh little housekeeping if you're going to speak please approach Podium turn the mic on and identify yourself cell phones things like that cell phones uh pads if you could eith",
+    "speaker_original_automatic_label": "Speaker_01_Seth_Floyd"
   }
 ]

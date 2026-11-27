@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 81.48,
     "end": 2075.8,
     "hms": "00h01m21s-00h34m36s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h01m21s-00h34m36s.mp4",
-    "text_preview": "like to call the October 14th meeting of the governing body to order Madam clerk would you take the role Please Mr cook here Mr esel here Mr Johnson present Mr laybor present Dr Rennie present Mr Royal here Mr Seagrave p"
+    "text_preview": "like to call the October 14th meeting of the governing body to order Madam clerk would you take the role Please Mr cook here Mr esel here Mr Johnson present Mr laybor present Dr Rennie present Mr Royal here Mr Seagrave p",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]

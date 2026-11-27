@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 62.52,
     "end": 3472.72,
     "hms": "00h01m03s-00h57m53s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h01m03s-00h57m53s.mp4",
-    "text_preview": "November 4th um it is November 4th right yeah meeting of the finance committee um if you are joining us online if you would um use the raised hand feature if you would like to speak and Jennifer will give you the ability"
+    "text_preview": "November 4th um it is November 4th right yeah meeting of the finance committee um if you are joining us online if you would um use the raised hand feature if you would like to speak and Jennifer will give you the ability",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]
