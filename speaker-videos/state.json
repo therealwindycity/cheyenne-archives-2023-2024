@@ -298,6 +298,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Ceiling_Tiles": {
+      "identifier": "cochwy-Ceiling_Tiles",
+      "date": "2024-10-10",
+      "title": "Ceiling Tiles",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-10-10-iling_Tiles",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-iling_Tiles",
+      "index_path": "speaker-videos/2024-10-10_Ceiling_Tiles/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-10-10_Ceiling_Tiles/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
