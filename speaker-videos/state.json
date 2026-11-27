@@ -272,6 +272,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Bad_Sprinkler_Head": {
+      "identifier": "cochwy-Bad_Sprinkler_Head",
+      "date": "2024-10-10",
+      "title": "Bad Sprinkler Head",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-10-10-inkler_Head",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-inkler_Head",
+      "index_path": "speaker-videos/2024-10-10_Bad_Sprinkler_Head/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-10-10_Bad_Sprinkler_Head/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
