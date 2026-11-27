@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-No_Bollards_on_Gas",
+  "title": "No Bollards on Gas",
+  "date": "2024-10-10",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-10-10-ards_on_Gas",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-ards_on_Gas",
+  "archive_embed_url": "https://archive.org/embed/cochwy-No_Bollards_on_Gas",
+  "archive_stream_url": "https://archive.org/download/cochwy-No_Bollards_on_Gas/No_Bollards_on_Gas.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 3018230,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-10-10-ards_on_Gas/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
