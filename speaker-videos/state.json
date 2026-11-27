@@ -311,6 +311,11 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Sprinkler_Riser": {
+      "identifier": "cochwy-Sprinkler_Riser",
+      "status": "skipped_no_video",
+      "date": "2024-10-10"
     }
   }
 }
