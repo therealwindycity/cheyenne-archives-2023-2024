@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Ceiling_Tiles",
+  "title": "Ceiling Tiles",
+  "date": "2024-10-10",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-10-10-iling_Tiles",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-iling_Tiles",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Ceiling_Tiles",
+  "archive_stream_url": "https://archive.org/download/cochwy-Ceiling_Tiles/Ceiling_Tiles.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 2405417,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-10-10-iling_Tiles/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
