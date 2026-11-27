@@ -316,6 +316,19 @@
       "identifier": "cochwy-Sprinkler_Riser",
       "status": "skipped_no_video",
       "date": "2024-10-10"
+    },
+    "cochwy-No_Smoking_Signs": {
+      "identifier": "cochwy-No_Smoking_Signs",
+      "date": "2024-10-10",
+      "title": "No Smoking Signs",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-10-10-oking_Signs",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-oking_Signs",
+      "index_path": "speaker-videos/2024-10-10_No_Smoking_Signs/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-10-10_No_Smoking_Signs/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
