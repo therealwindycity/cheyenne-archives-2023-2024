@@ -381,6 +381,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Fire_Hydrant": {
+      "identifier": "cochwy-Fire_Hydrant",
+      "date": "2024-10-10",
+      "title": "Fire Hydrant",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-10-10-ire_Hydrant",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-ire_Hydrant",
+      "index_path": "speaker-videos/2024-10-10_Fire_Hydrant/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-10-10_Fire_Hydrant/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
