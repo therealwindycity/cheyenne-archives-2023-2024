@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Covered_Outlet_and_Not_Covered_Outlet_With",
+  "title": "Covered Outlet and Not Covered Outlet With",
+  "date": "2024-10-10",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-10-10-Outlet_With",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-Outlet_With",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Covered_Outlet_and_Not_Covered_Outlet_With",
+  "archive_stream_url": "https://archive.org/download/cochwy-Covered_Outlet_and_Not_Covered_Outlet_With/Covered_Outlet_and_Not_Covered_Outlet_With.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 3219499,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-10-10-Outlet_With/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
