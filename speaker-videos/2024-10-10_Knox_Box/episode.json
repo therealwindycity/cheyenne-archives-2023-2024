@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Knox_Box",
+  "title": "Knox Box",
+  "date": "2024-10-10",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-10-10-wy-Knox_Box",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-wy-Knox_Box",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Knox_Box",
+  "archive_stream_url": "https://archive.org/download/cochwy-Knox_Box/Knox_Box.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 8340094,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-10-10-wy-Knox_Box/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
