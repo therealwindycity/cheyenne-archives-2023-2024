@@ -394,6 +394,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Powerstrips": {
+      "identifier": "cochwy-Powerstrips",
+      "date": "2024-10-10",
+      "title": "Powerstrips",
+      "repo": "therealwindycity/cheyenne-archives-2023-2024",
+      "release_tag": "speaker-videos-2024-10-10-Powerstrips",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-Powerstrips",
+      "index_path": "speaker-videos/2024-10-10_Powerstrips/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2024-10-10_Powerstrips/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
