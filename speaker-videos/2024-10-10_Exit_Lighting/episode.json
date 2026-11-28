@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Exit_Lighting",
+  "title": "Exit Lighting",
+  "date": "2024-10-10",
+  "season": 13,
+  "repo": "therealwindycity/cheyenne-archives-2023-2024",
+  "release_tag": "speaker-videos-2024-10-10-it_Lighting",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/tag/speaker-videos-2024-10-10-it_Lighting",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Exit_Lighting",
+  "archive_stream_url": "https://archive.org/download/cochwy-Exit_Lighting/Exit_Lighting.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 1179086,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2023-2024/releases/download/speaker-videos-2024-10-10-it_Lighting/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
